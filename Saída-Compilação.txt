@@ -1,0 +1,5 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: projeto-calculadora, Configuração: Debug Any CPU ------
+1>C:\Users\Cleber\Desktop\projetosc#\projeto-calculadora\projeto-calculadora\Program.cs(43,68,43,77): error CS0165: Uso de variável local não atribuída "resultado"
+1>Projeto de compilação pronto "projeto-calculadora.csproj" -- FALHA.
+========== Compilar: 0 com êxito, 1 com falha, 0 atualizados, 0 ignorados ==========
